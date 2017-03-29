@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">Final</string>
+    <string name="app_name">FindBerry</string>
+    <string name="etuser">User</string>
+    <string name="etpass">Password</string>
+    <string name="blogin">Login</string>
+    <string name="tvregister">Sign Up</string>
+    <string name="bregister">Sign Up</string>
+    <string name="bcancel">Cancel</string>
+    <string name="etpassr">Retype Password</string>
+    <string name="etmail">E-Mail</string>
+    <string name="tLogEmpty">Please fill in all the blanks!</string>
+    <string name="tLogWrongPass">Wrong password!</string>
+    <string name="tLogWrongUser">The user doesn\'t exist!</string>
+    <string name="tRegReg">Successfully Registered!</string>
+    <string name="tRegPassNoMatch">Passwords doesn\'t match!</string>
 </resources>
